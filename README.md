@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
