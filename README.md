@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
