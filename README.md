@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
