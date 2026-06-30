@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1436-destination-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1436-destination-city](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1436-destination-city) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
 | ------- |
