@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Interactive
 |  |
