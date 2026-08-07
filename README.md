@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
