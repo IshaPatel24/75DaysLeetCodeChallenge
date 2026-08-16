@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -818,20 +822,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
