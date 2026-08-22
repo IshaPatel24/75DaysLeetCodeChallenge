@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
