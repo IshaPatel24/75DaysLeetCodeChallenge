@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
