@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -943,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
