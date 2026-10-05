@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
