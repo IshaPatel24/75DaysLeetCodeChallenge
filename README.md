@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
