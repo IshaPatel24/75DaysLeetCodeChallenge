@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
