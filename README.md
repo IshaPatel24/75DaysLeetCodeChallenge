@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -854,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
