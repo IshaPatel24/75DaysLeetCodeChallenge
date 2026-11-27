@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/IshaPatel24/75DaysLeetCodeChallenge/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
